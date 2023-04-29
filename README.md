@@ -1,5 +1,7 @@
-# HTML-And-CSS-Responsive-Website---KASPER
+# KASPER-Website
+
+## Responsive Website Made with HTML And CSS
 
 Demo:
 
-https://islam-solaiman.github.io/HTML-And-CSS-Responsive-Website---KASPER/
+https://islam-solaiman.github.io/KASPER-Website/
